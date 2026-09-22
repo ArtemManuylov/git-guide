@@ -1,3 +1,4 @@
+Как выглядит страница 
 https://artemmanuylov.github.io/git-guide/
 
 # Руководство по Git и GitHub 
