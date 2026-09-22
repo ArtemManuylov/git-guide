@@ -1,4 +1,4 @@
-#https://artemmanuylov.github.io/git-guide/
+https://artemmanuylov.github.io/git-guide/
 
 # Руководство по Git и GitHub 
 
